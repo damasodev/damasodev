@@ -1,13 +1,13 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Gustavo Christo Damaso
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Gustavo Christo Damaso, tenho 20 anos e sou natural de Ribeirão Pires, no ABC Paulista. Concluí o ensino médio com Curso Técnico Integrado em Tecnologia da Informação e, atualmente, estou cursando Ciências da Computação na Fundação Santo André.
 
 Atuo como Analista de Tecnologia da Informação e Desenvolvedor Back-End, com grande interesse em soluções tecnológicas, automação de processos e desenvolvimento de sistemas. Sou apaixonado por tecnologia e estou em constante evolução profissional, sempre buscando aprimorar meus conhecimentos e acompanhar as inovações do mercado.
 
 Você pode me encontrar no LinkedIn:
-🔗 https://www.linkedin.com/in/gustavo-damaso".
+🔗 https://www.linkedin.com/in/gustavo-damaso
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
