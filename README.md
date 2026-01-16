@@ -20,7 +20,7 @@ Concluí o **Ensino Médio com Curso Técnico Integrado em Tecnologia da Informa
 
 Atuo como **Analista de Tecnologia da Informação e Desenvolvedor Back-End**, com foco em **sistemas corporativos, automação de processos, infraestrutura, cloud e integração entre sistemas**.
 
-Tenho perfil **analítico, organizado e orientado a soluções reais de negócio**, sempre buscando **segurança, performance e escalabilidade**.
+Perfil **analítico, organizado e orientado a soluções reais de negócio**, sempre buscando **segurança, performance e escalabilidade**.
 
 🔗 **LinkedIn**  
 https://www.linkedin.com/in/gustavo-damaso  
@@ -30,28 +30,32 @@ https://www.linkedin.com/in/gustavo-damaso
 ## 🧠 Stack Tecnológica
 
 ### ⚙️ Back-End & Linguagens
-<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sap/sap-original.svg"/>
-<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sap.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
 <br/><br/>
 
 ### 🌐 Front-End
-<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 
 <br/><br/>
 
 ### 🗄️ Banco de Dados
-<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
 <br/><br/>
 
 ### ☁️ Cloud • Infra • Versionamento
-<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"/>
-<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img 
+  align="left" 
+  width="40px" 
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg"
+/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
 <br/><br/>
 
@@ -93,7 +97,7 @@ Estudos e desenvolvimento voltados a ambientes ERP e processos empresariais
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/gustavodamaso/gustavodamaso/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/gustavodamaso/gustavodamaso/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
