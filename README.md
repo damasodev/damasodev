@@ -32,7 +32,7 @@ https://www.linkedin.com/in/gustavo-damaso
 ### ⚙️ Back-End & Linguagens
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sap.svg"/>
+<img align="left" color="blue" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sap.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
 <br/><br/>
