@@ -1,149 +1,116 @@
-# 👩🏻‍💻 Gustavo Christo Damaso
+# 👨🏻‍💻 Gustavo Christo Damaso
 
-**`Desenvolvedor Back-End`**
-
-Me chamo Gustavo Christo Damaso, tenho 20 anos e sou natural de Ribeirão Pires, no ABC Paulista. Concluí o ensino médio com Curso Técnico Integrado em Tecnologia da Informação e, atualmente, estou cursando Ciências da Computação na Fundação Santo André.
-
-Atuo como Analista de Tecnologia da Informação e Desenvolvedor Back-End, com grande interesse em soluções tecnológicas, automação de processos e desenvolvimento de sistemas. Sou apaixonado por tecnologia e estou em constante evolução profissional, sempre buscando aprimorar meus conhecimentos e acompanhar as inovações do mercado.
-
-Você pode me encontrar no LinkedIn:
-🔗 https://www.linkedin.com/in/gustavo-damaso
-
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Back--End%20Developer-0A66C2?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IT%20Analyst-1E1E1E?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gustavodamaso&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+Sou **Gustavo Christo Damaso**, tenho **20 anos** e sou natural de **Ribeirão Pires, no ABC Paulista**.  
+Concluí o **Ensino Médio com Curso Técnico Integrado em Tecnologia da Informação** e, atualmente, curso **Ciências da Computação na Fundação Santo André**.
+
+Atuo como **Analista de Tecnologia da Informação e Desenvolvedor Back-End**, com foco em **sistemas corporativos, automação de processos, infraestrutura, cloud e integração entre sistemas**.
+
+Tenho perfil **analítico, organizado e orientado a soluções reais de negócio**, sempre buscando **segurança, performance e escalabilidade**.
+
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/gustavo-damaso  
+
+---
+
+## 🧠 Stack Tecnológica
+
+### ⚙️ Back-End & Linguagens
+<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sap/sap-original.svg"/>
+<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
+<br/><br/>
+
+### 🌐 Front-End
+<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
+<br/><br/>
+
+### 🗄️ Banco de Dados
+<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+
+<br/><br/>
+
+### ☁️ Cloud • Infra • Versionamento
+<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+<br/><br/>
+
+---
+
+## 🏗️ Projetos em Destaque
+
+🔹 **Sistema Corporativo de Reservas**  
+Back-end completo para gestão de salas, usuários, hierarquia e permissões  
+`PHP • MySQL • Autenticação • Controle de Acesso`
+
+🔹 **Automação de Processos de TI**  
+Padronização e automação de processos internos corporativos  
+`Java • Scripts • Integrações`
+
+🔹 **Sistemas Corporativos / SAP**  
+Estudos e desenvolvimento voltados a ambientes ERP e processos empresariais  
+`ABAP • SAP • Processos de Negócio`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=gustavodamaso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodamaso&theme=tokyonight&layout=compact&langs_count=8"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavodamaso&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/gustavodamaso/gustavodamaso/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar no desenvolvimento de **soluções robustas, seguras e escaláveis**, com foco em **Back-End, Cloud, Sistemas Corporativos, SAP e Automação**, evoluindo constantemente e gerando impacto real no negócio.
+
+---
+
+## 🌍 About Me (EN)
+
+I'm **Gustavo Christo Damaso**, an **IT Analyst and Back-End Developer** from Brazil.  
+Currently studying **Computer Science**, focused on **enterprise systems, automation, cloud infrastructure and scalable back-end solutions**.
+
+Strong interest in **clean architecture, security, performance and real-world problem solving**.
+
+---
+
+⭐ *Feel free to explore my repositories and follow my professional growth.*
